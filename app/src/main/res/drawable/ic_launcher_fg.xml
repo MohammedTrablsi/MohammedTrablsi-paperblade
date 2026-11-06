@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:width="108dp" android:height="108dp" android:viewportWidth="108" android:viewportHeight="108">
+    <!-- stickman -->
+    <path android:fillColor="#EFE6D2" android:pathData="M54,30 m-7,0 a7,7 0 1,0 14,0 a7,7 0 1,0 -14,0"/>
+    <path android:strokeColor="#EFE6D2" android:strokeWidth="4.5" android:strokeLineCap="round" android:pathData="M54,37 L54,58 M54,58 L44,78 M54,58 L64,78 M54,44 L42,52 M54,44 L66,40"/>
+    <!-- sword -->
+    <path android:strokeColor="#E3E9F0" android:strokeWidth="3" android:strokeLineCap="round" android:pathData="M66,40 L84,22"/>
+    <path android:strokeColor="#8A7A52" android:strokeWidth="2.5" android:strokeLineCap="round" android:pathData="M65,37 L70,42"/>
+    <!-- scarf -->
+    <path android:strokeColor="#C1272D" android:strokeWidth="3.5" android:strokeLineCap="round" android:pathData="M53,40 C46,42 42,47 36,46"/>
+</vector>
